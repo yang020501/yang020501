@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Internship .NET DEV at BoschVN
+- 🔭 I’m currently working on Internal .NET and Windows DEV at BoschVN
 - 🌱 I’m currently learning at UIT - VNUHCM
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.facebook.com/thaiduong.0205
 - ⚡ Fun fact: Haahaahahaha
 
 <!--
