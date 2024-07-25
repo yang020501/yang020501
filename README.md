@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Internal .NET and Windows DEV at BoschVN
-- 🌱 I’m currently learning at UIT - VNUHCM
+- 🔭 I’m currently working on Internal Fullstack at BoschVN
+- 🌱 I have graduated at UIT - VNUHCM
 - 📫 How to reach me: https://www.facebook.com/thaiduong.0205
 - ⚡ Fun fact: Haahaahahaha
 
