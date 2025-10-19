@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Internal Fullstack at BoschVN
+- 🔭 I’m currently working as fullstack engineer
 - 🌱 I have graduated at UIT - VNUHCM
 - 📫 How to reach me: https://www.facebook.com/thaiduong.0205
 - ⚡ Fun fact: Haahaahahaha
